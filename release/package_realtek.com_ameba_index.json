@@ -18,12 +18,13 @@
           "help": {
             "online": "http://www.amebaiot.com/"
           },
-          "url": "https://github.com/Ameba8195/Arduino/raw/master/release/ameba-2.0.2.tar.gz",
+          "url": "https://github.com/ESP32DE/Arduino/raw/master/release/ameba-2.0.2.tar.gz",
           "archiveFileName": "ameba-2.0.2.tar.gz",
           "checksum": "SHA-256:6ab5e1f2a84b80e2f35f61660c248325c28251b9e087f3c18950976ea0af0143",
           "size": "27920875",
           "boards": [
             {"name": "Ameba RTL8195A"},
+            {"name": "Ameba 8711AM"},
             {"name": "Ameba RTL8710"}
           ],
           "toolsDependencies": [
